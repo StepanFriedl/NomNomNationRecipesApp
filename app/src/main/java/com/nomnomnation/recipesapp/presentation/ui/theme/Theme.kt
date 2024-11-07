@@ -1,6 +1,5 @@
-package com.nomnomnation.recipesapp.ui.theme
+package com.nomnomnation.recipesapp.presentation.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

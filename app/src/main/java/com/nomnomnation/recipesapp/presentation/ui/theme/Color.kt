@@ -1,4 +1,4 @@
-package com.nomnomnation.recipesapp.ui.theme
+package com.nomnomnation.recipesapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

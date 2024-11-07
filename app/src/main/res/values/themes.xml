@@ -2,4 +2,13 @@
 <resources>
 
     <style name="Theme.NomNomNationRecipesApp" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- Splash Screen Theme -->
+    <style name="Theme.NomNomNationRecipesApp.Splash" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Background color for the splash screen -->
+        <item name="android:windowSplashScreenBackground">@color/green_light</item>
+
+        <!-- Icon for splash screen (animated or static) -->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash</item>
+    </style>
 </resources>
